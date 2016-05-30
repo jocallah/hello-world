@@ -1,4 +1,4 @@
 # hello-world
 a short description
 
-Hello World, I'm learning github
+Hello World, I'm learning github!
